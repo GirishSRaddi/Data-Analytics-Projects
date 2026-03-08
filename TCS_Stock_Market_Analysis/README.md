@@ -57,6 +57,11 @@ The data was cleaned and transformed to support time-series financial analysis.
 5️) Dashboard Development
 Designed interactive visuals to present financial insights clearly.
 
+## Dashboard Preview
+
+![TCS Stock Market Analysis Dashboard](./assets/TCS_Stock_Market_Analysis_Dashboard.png)
+
+
 📊 Dashboard Features
 
 📈 Stock Price Trend Analysis:
